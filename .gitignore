@@ -1,0 +1,14 @@
+### https://raw.github.com/github/gitignore/9779d87d3d81ffacd90ae2470e7b3ffe566ffc71/Global/Linux.gitignore
+
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
