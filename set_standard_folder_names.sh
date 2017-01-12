@@ -1,3 +1,3 @@
 #!/bin/bash
 
-LANG=C xdg-user-dirs-gtk-update
+LANGUAGE=en xdg-user-dirs-update --force
