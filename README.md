@@ -2,19 +2,21 @@
 
 onelines for Ubuntu
 
-# Requirements
+## Requirements
 
 * Ubuntu
 
-## Tested versions
+### Tested versions
 
 * Ubuntu Trusty 14.04
 * Ubuntu Xenial 16.04
 
-# Licence
+## Licence
 
-This software is released under the MIT License, see [LICENSE](./LICENSE).
+This repository is released under the MIT license, see [LICENSE](./LICENSE).
 
-# Author
+Unless attributed otherwise, everything is under the MIT license.
+
+## Author
 
 Copyright (c) 2016 [Tiryoh](https://github.com/Tiryoh)
