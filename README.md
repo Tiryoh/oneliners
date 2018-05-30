@@ -1,6 +1,6 @@
 # oneliners
 
-onelines for Ubuntu
+usefull scripts for Ubuntu, not only shell oneliners
 
 ## Requirements
 
@@ -15,8 +15,8 @@ onelines for Ubuntu
 
 This repository is released under the MIT license, see [LICENSE](./LICENSE).
 
-Unless attributed otherwise, everything is under the MIT license.
+Unless attributed otherwise, everything in this repository is under the MIT license.
 
 ## Author
 
-Copyright (c) 2016 [Tiryoh](https://github.com/Tiryoh)
+Copyright (c) 2016 - 2018 [Tiryoh](https://github.com/Tiryoh)
