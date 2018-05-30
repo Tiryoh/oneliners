@@ -1,6 +1,6 @@
 # oneliners
 
-usefull scripts for Ubuntu, not only shell oneliners
+useful scripts for Ubuntu, not only shell oneliners
 
 ## Requirements
 
